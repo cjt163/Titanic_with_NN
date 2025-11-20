@@ -23,3 +23,6 @@ Note: I'm aware this feature engineering strategy may not be the most optimal, b
 about, not the results.
 
 Feel free to build off of this model and experiment further!
+
+
+**Built without AI**
